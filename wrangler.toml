@@ -1,0 +1,6 @@
+name = "clfastapi"
+compatibility_date = "2024-04-06"
+
+[vars]
+UPSTASH_REDIS_REST_URL = "YOUR_REDIS_REST_URL"
+UPSTASH_REDIS_REST_TOKEN = "YOUR_REDIS_REST_TOKEN"
